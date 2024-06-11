@@ -88,7 +88,7 @@ This is a streamlit web application that can recommend various kinds of similar 
 Clone the repository
 
 ```bash
-https://github.com/entbappy/Movie-Recommender-System-Using-Machine-Learning.git
+https://github.com/neelima458/Movie-Mate-Microsoft_Engage_2022.git
 ```
 ### STEP 01- Create a conda environment after opening the repository
 
