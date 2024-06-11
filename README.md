@@ -1,4 +1,4 @@
-# Movie Recommender System Using Machine Learning!
+# Movie-Mate Movie Recommendation System
 
 <img src="demo/6.jpeg" alt="workflow" width="70%">
 
